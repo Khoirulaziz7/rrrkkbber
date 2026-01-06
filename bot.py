@@ -15,10 +15,10 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputFile
 
 # ---------------- CONFIG ----------------
 # Put TOKEN, ADMIN_ID, CHANNEL, BOT_ID in config.py or environment variables
-TOKEN = "8377959008:AAF9Qw9qA0jEsx5eHdCWAxFeW3JRryFs2SI"
-ADMIN_ID =  8163114928
-CHANNEL = "@rekberdavinn"
-BOT_ID = 8377959008
+TOKEN = "8398660208:AAGqaBx-_HrExrxNtLWbztkh3hKniWK55sk"
+ADMIN_ID = 5615921474 
+CHANNEL = "@rekberinx"
+BOT_ID = 8398660208
 
 if not TOKEN or not ADMIN_ID:
     print("ERROR: Set TOKEN and ADMIN_ID in environment or config.py")
@@ -61,11 +61,11 @@ MASUK_MESSAGE = (
 "⚠️Waktu Transaksi dihitung Setelah Penjual Memberi data , Jika pembeli tidak ada Respon Selama 1 Jam , Dana Saya Cairkan Ke penjual ‼️"
 )
 DONE_MESSAGE = (
-"ALHAMDULILLAH \n🔰TERIMA KASIH🔰\n"
+"OKE \n🔰TERIMA KASIH🔰\n"
 "__________________\n"
 "Dana Sudah Dikirim Ya\n"
 "Silahkan Cek Mutasi Rekening/E-Wallet Anda\n"
-"Selamat Ber-Transaksi Kembali Arigaato🔥"
+"Selamat Ber-Transaksi Kembali🔥"
 )
 
 # ---------------- DB HELPERS ----------------
